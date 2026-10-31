@@ -7,3 +7,5 @@ this is the first line
 3rd line added from local repo
 
 4th line added from remote repo
+
+5th line added from remote
